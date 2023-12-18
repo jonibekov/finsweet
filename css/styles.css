@@ -49,7 +49,8 @@ body{
     top: 302px;
     left: 412px;
 }
-
+ 
+  
 .content::after{
     content: "";
     display: block;
